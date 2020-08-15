@@ -59,7 +59,7 @@ function createFeatures(eqdata) {
 
   // size of circle
   function getSize(d) {
-    return d*6.5;
+    return d*10;
   }
 //color of circle
   function getColor(d) {
